@@ -1,0 +1,17 @@
+{
+  "name": "miko-ulloa-personal-site",
+  "version": "1.0.0",
+  "description": "Personal GitHub page for Miko Ulloa",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "github"
+  ],
+  "author": "Miko Ulloa",
+  "license": "MIT"
+}
