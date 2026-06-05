@@ -13,7 +13,7 @@ Explore my repositories to see what I'm working on.
 ## Contact
 
 - GitHub: [@MikoUlloa](https://github.com/MikoUlloa)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [info@mikoulloa.comm](info@mikoulloa.com)
 
 ---
 
